@@ -1,2 +1,2 @@
-# Shoping-cart
-membuat shoping cart dengan php
+# SHOPPING_CART
+Building shopping cart using PHP and MySQL
